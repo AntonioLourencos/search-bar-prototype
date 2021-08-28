@@ -1,0 +1,29 @@
+#Header {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+    padding: 20px 0px;
+}
+
+#Header span {
+    cursor: pointer;
+}
+
+#Logo {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+    font-size: 1.2rem;
+}
+
+#Menu {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+#Menu > a {
+    margin: 0px 5px;
+}

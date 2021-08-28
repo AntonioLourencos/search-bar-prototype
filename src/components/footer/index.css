@@ -1,0 +1,29 @@
+#Footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 20px 0px;
+}
+
+#Footer span {
+    cursor: pointer;
+}
+
+#Logo {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+    font-size: 1.2rem;
+}
+
+#Networking {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+#Networking > a {
+    margin: 0px 20px;
+}
